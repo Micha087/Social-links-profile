@@ -62,9 +62,9 @@ body{
     display: flex;
     font-weight: 600;
     justify-content: center;
+    margin: auto;
     padding: 15px;
     width: 90%;
-    margin: auto;
 }
 .social-buttons:hover{
     background-color: var(--Green);
