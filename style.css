@@ -34,7 +34,6 @@ body{
     width: 100px;
 }
 .offscreen{
-    color: var(--White);
     left: -10000px;
     position: absolute;
 }
