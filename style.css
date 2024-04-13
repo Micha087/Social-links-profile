@@ -33,7 +33,12 @@ body{
     margin: 25px;
     width: 100px;
 }
-.socialmedia-card figcaption{
+.offscreen{
+    color: var(--White);
+    left: -10000px;
+    position: absolute;
+}
+.socialmedia-card h1{
     color: var(--White);
     font-size: 24px;
     font-weight: 600;
