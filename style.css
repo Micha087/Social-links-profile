@@ -68,10 +68,10 @@ body {
   color: var(--OffBlack);
 }
 .attribution {
-  font-size: 11px;
-  text-align: center;
-  margin: 10px;
   color: var(--White);
+  font-size: 11px;
+  margin: 10px;
+  text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
